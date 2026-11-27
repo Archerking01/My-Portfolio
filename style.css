@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+
+}
+.sidebar{
+    width: 20%;
+    height: 100%;
+    float: left;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+.main-content{
+    border: 20px;
+    padding-left: 20px;
+}
